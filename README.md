@@ -3,7 +3,7 @@
 bubble清单
 一个基于gin+gorm开发的练手小项目。
 
-前端页面基于vue和ElementUI开发,前端源码地址：bubble_frontend。
+前端页面基于vue和ElementUI开发,前端源码地址：https://github.com/Q1mi/bubble_frontend。
 
 使用指南
 配置MySQL
